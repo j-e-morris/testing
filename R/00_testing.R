@@ -12,3 +12,6 @@ num / den
 1 + den + num
 
 # other changes to the code 
+
+## subtraction
+num - den
